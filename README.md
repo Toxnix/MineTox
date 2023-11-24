@@ -1,0 +1,2 @@
+# MineTox
+Toxnix for Minestom
